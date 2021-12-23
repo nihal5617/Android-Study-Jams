@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StoryTeller</string>
+    <string name="storyapp">StoryTeller</string>
+    <string name="random_story">Random Story</string>
+    <string name="stories">Stories</string>
+    <string name="categories">Categories</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more">More</string>
+    <string name="home">Home</string>
+    <string name="image">Image</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="sample_story_title">Sample Story Title</string>
+    <string name="sample_story_content">Sample Story content</string>
+    <string name="for_people_who_love_stories">For people who love stories</string>
+
+    <string-array name="rate_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+</resources>

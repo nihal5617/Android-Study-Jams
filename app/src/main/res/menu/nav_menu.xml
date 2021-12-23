@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"></item>
+
+    <item android:title="@string/storyapp">
+        <menu>
+            <item
+                android:id="@+id/random"
+                android:title="@string/random_story"></item>
+
+            <item
+                android:id="@+id/stories"
+                android:title="@string/stories"></item>
+
+<!--            <item-->
+<!--                android:id="@+id/cat"-->
+<!--                android:title="@string/categories"></item>-->
+        </menu>
+    </item>
+
+    <item android:title="@string/more">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:title="@string/contact_us"></item>
+
+            <item
+                android:id="@+id/rate"
+                android:title="@string/rate_us"></item>
+
+        </menu>
+    </item>
+
+</menu>
