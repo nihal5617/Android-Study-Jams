@@ -1,7 +1,6 @@
 package com.example.storyapp
 
 import android.app.AlertDialog
-import android.app.Dialog
 import android.content.DialogInterface
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -43,6 +42,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         val adapter = ItemAdapter(storyTitles,storyContents,storyImages)
         storyList.layoutManager = LinearLayoutManager(this)
         storyList.adapter = adapter
+
+        img_add.setOnClickListener{
+            val intent =Intent(applicationContext,AddStoryActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {

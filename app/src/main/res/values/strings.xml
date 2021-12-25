@@ -14,6 +14,11 @@
     <string name="sample_story_title">Sample Story Title</string>
     <string name="sample_story_content">Sample Story content</string>
     <string name="for_people_who_love_stories">For people who love stories</string>
+    <string name="my_stories">My Stories</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="save">Save</string>
+    <string name="enter_experience">Enter Experience</string>
 
     <string-array name="rate_array">
         <item>1</item>

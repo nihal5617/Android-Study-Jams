@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/drawable/ic_logo_app_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.2006340579710145" />
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/activity_splash.xml" value="0.264" />
-        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/custom_item_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/content_main.xml" value="0.18947368421052632" />
+        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/custom_item_view.xml" value="0.4" />
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/navigation_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/layout/short_story_view.xml" value="0.264" />
         <entry key="..\:/Users/Nihal gupta/AndroidStudioProjects/StoryApp/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
       </map>
     </option>

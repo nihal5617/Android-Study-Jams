@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.storyapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -10,7 +11,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_logo_app_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.StoryApp">
+        android:theme="@style/Theme.StoryApp"
+        tools:ignore="DuplicateActivity">
+        <activity
+            android:name=".AddStoryActivity"
+            android:exported="false"/>
         <activity
             android:name=".SplashActivity"
             android:exported="true"
@@ -29,7 +34,7 @@
         <activity
             android:name=".MainActivity"
             android:exported="false"
-            android:theme="@style/Theme.StoryAppNoAB"/>
+            android:theme="@style/Theme.StoryAppNoAB" />
     </application>
 
 </manifest>
