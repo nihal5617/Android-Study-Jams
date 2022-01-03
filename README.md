@@ -16,6 +16,16 @@ One can read some new exciting stories through this app ,pick some random storie
 ![Screenshot_1640438658](https://user-images.githubusercontent.com/80695826/147386087-9cb22106-b8c5-4e35-b219-ce8b52fad231.png)
 ![Screenshot_1640438673](https://user-images.githubusercontent.com/80695826/147386089-a0814962-2576-4103-b624-d93828386861.png)
 
+1. This is the Splash screenshownfor 2 seconds when we open the app
+2. Main Screen where all the stories are already there it also has an image button when clicked on this user will be taken too add Experience layout.
+3. Navigation screen where user can click on options like
+  a. Home : to enter Main screen
+  b. Random Story : will take you to any random story
+  c. Rate us : to rate the app out of 5
+4. This is how the story looks with content
+5. This is the add Experience layout where user can add their experience that how they felt by reading the story and it will be saved in room database.
+6. User can also delete any experience by clicking on it and delete option.
+
 **Functionality Used**
 
 **Used MVVM architecture**
