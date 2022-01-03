@@ -2,11 +2,11 @@
 Story Teller App
 
 **Problem Statement**
-Alot of people want to read stories this is a small solution that one can read the stories with a titled pic.
+Alot of people want to read stories and store their experience or views on a particular story.
 
 **Proposed Solution**
 
-One can read some new exciting stories through this app ,pick some random stories also save their experiences and also can rate us.
+One can *read* some new exciting stories through this app ,pick some *random* stories also *save their experiences* and also can rate us.
 
 
 ![Screenshot_1640268410](https://user-images.githubusercontent.com/80695826/147252539-4cf9de5d-bd86-4085-af90-79e820574a51.png)
@@ -33,5 +33,5 @@ One can read some new exciting stories through this app ,pick some random storie
 1. UI : The app has a good and interactive UI with splash screen.
 2. Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 3. RecyclerView : To present the list of different stories we used the efficient recyclerview.
-4. Picsum Api : To recieve different pictures weused Picsum API
+4. Picsum Api : To recieve different pictures we used Picsum API
 5. Live Data , ViewModel & Room Database : It is used to store and update the experience of the user and to store that data
