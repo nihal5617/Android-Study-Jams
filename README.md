@@ -11,7 +11,7 @@ One can *read* some new exciting stories through this app ,pick some *random* st
 
 ![Screenshot_1640268410](https://user-images.githubusercontent.com/80695826/147252539-4cf9de5d-bd86-4085-af90-79e820574a51.png)
 ![Screenshot_1640268414](https://user-images.githubusercontent.com/80695826/147252548-acf7011f-8d06-414a-99c7-dd0e87049be0.png)
-![Screenshot_1640268424](https://user-images.githubusercontent.com/80695826/147252554-50e1af51-42f1-4cf6-a3ff-da4dac655e79.png)
+![img3](https://user-images.githubusercontent.com/80695826/148077018-7fe14fec-3d15-46b1-b5d5-c937b5f64cc9.png)
 ![Screenshot_1640268430](https://user-images.githubusercontent.com/80695826/147252569-71d6c6df-2e37-4f8f-bd8a-f2e4267124dd.png)
 ![Screenshot_1640438658](https://user-images.githubusercontent.com/80695826/147386087-9cb22106-b8c5-4e35-b219-ce8b52fad231.png)
 ![Screenshot_1640438673](https://user-images.githubusercontent.com/80695826/147386089-a0814962-2576-4103-b624-d93828386861.png)
