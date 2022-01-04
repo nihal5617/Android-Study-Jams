@@ -12,7 +12,7 @@
 
             <item
                 android:id="@+id/stories"
-                android:title="@string/stories"></item>
+                android:title="@string/experience"></item>
 
 <!--            <item-->
 <!--                android:id="@+id/cat"-->

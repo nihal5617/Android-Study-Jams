@@ -60,8 +60,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             startActivity(intent)
 
         }
-        if(item.itemId == R.id.stories)
-                Toast.makeText(this,"Will be added soon!!",Toast.LENGTH_SHORT).show()
+        if(item.itemId == R.id.stories){
+            //Toast.makeText(this,"Will be added soon!!",Toast.LENGTH_SHORT).show()
+            val intent =Intent(applicationContext,AddStoryActivity::class.java)
+            startActivity(intent)
+        }
         if(item.itemId == R.id.rate) {
 
             val builder = AlertDialog.Builder(this)
