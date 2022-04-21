@@ -1,6 +1,7 @@
 package com.example.storyapp.viewmodel
 
 
+import android.util.Log
 import androidx.databinding.Bindable
 import androidx.databinding.Observable
 import androidx.lifecycle.MutableLiveData
@@ -27,12 +28,20 @@ class StoriesViewModel(private val repository: StoriesRepository) : ViewModel(),
     }
 
     fun save(){
+        try {
+            if(tvtitle.toString().isNotEmpty() && tvcontent.toString().isNotEmpty()) {
+                val title = tvtitle.value!!
+                val content = tvcontent.value!!
+                insertstory(Stories(0, title, content))
+                tvtitle.value = null
+                tvcontent.value = null
+            }else{
+                Log.e("error", "include values")
+            }
+        }catch(e : Exception){
 
-            val title = tvtitle.value!!
-            val content = tvcontent.value!!
-            insertstory(Stories(0,title,content))
-            tvtitle.value=null
-            tvcontent.value=null
+        }
+
 
     }
 

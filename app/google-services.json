@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613061621233",
+    "project_id": "stroryapp",
+    "storage_bucket": "stroryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613061621233:android:56d9d9e6297eac6e548050",
+        "android_client_info": {
+          "package_name": "com.example.storyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613061621233-pup6necd42f16kfe3q89o8e9ce2pjo04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWtAIekz69uBA-oR1n7uz1DtYxDhB1TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613061621233-pup6necd42f16kfe3q89o8e9ce2pjo04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
