@@ -35,3 +35,4 @@ One can *read* some new exciting stories through this app ,pick some *random* st
 3. RecyclerView : To present the list of different stories we used the efficient recyclerview.
 4. Picsum Api : To recieve different pictures we used Picsum API
 5. Live Data , ViewModel & Room Database : It is used to store and update the experience of the user and to store that data
+6. Firebase : To fetch all the stroies
